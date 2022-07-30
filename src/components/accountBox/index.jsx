@@ -139,7 +139,7 @@ export function AccountBox(props) {
           />
           {active === "signin" && (
             <HeaderContainer>
-              <HeaderText className="hh">V-RAMP</HeaderText>
+              <HeaderText className="hh">V-RAM</HeaderText>
               <HeaderText>Welcome Back</HeaderText> 
               <SmallText>Please sign-in to continue!</SmallText>
             </HeaderContainer>
